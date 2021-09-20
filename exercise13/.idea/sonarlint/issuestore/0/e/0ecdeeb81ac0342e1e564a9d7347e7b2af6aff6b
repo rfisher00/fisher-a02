@@ -1,0 +1,11 @@
+
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š‘…ûıÿÿÿÿ
+K
+java:S1068"0Remove this unused "principleAmt" private field.(ÿÑ€ºúÿÿÿÿ
+K
+java:S1068"0Remove this unused "interestRate" private field.(Õğóùÿÿÿÿ
+G
+java:S1068",Remove this unused "duration" private field.(Ø¯µˆıÿÿÿÿ
+L
+java:S1068"1Remove this unused "numCompounded" private field.(¦±Ì‰üÿÿÿÿ
